@@ -1,5 +1,5 @@
 # Critical Rendering Path
 
-This project include example to under stand the Critical Rendering Path
+This project include example to understand the Critical Rendering Path
 
 
